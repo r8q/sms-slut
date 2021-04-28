@@ -1,0 +1,8 @@
+threading
+colorama
+telebot
+phonenumbers
+psutil
+socket
+random
+subprocess
