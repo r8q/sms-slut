@@ -1,5 +1,7 @@
 # SMS B0Mb€r  👨‍💻
 > Troll your friends and get information ℹ️ 👋
+<br>
+<br>
 > ⛔ developer asssume no liability and are not responsible ⚠️
 
 ## Table of contents 📱
