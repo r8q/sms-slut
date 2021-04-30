@@ -12,7 +12,8 @@
 
 ## Screenshots 
 🤖
-
+![Example screenshot](https://github.com/r8q/sms-slut/blob/main/ss2.png)
+![Example screenshot](https://github.com/r8q/sms-slut/blob/main/ss1.png)
 ## Technologies 
 🔮
  <img src="https://img.shields.io/badge/made%20with-python-yellow.svg" alt="made with python">
